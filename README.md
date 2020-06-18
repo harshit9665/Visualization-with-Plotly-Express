@@ -7,8 +7,11 @@ it’s a wrapper for Plotly.py that exposes a simple syntax for complex charts.
 Here i have "Visualized Data with Plotly Express" where I have Customized charts, animations, and demonstrated various plotly.express features.
 
 We can make richly interactive plots in just a single function call, including faceting, maps, animations, and trendlines. It comes with on-board datasets, color scales and themes, and just like Plotly.py
+
 Various steps performaed in this project are:-
+
 Step 1: Loading the Data
+
 ![](datahead.png)
 
 Step 2: Quick Visualizing with Custom Bar Charts
