@@ -1,6 +1,6 @@
 # Visualization-with-Plotly-Express
 This Project consist of animation of beautiful, interactive data visualization of GDP per Capita vs Life Expectancy of Countries.
-
+![](GDPvsLifeExp.png)
 Plotly Express is a high-level Python visualization library: it’s a wrapper for Plotly.py that exposes a simple syntax for complex charts.
 
 We can make richly interactive plots in just a single function call, including faceting, maps, animations, and trendlines. It comes with on-board datasets, color scales and themes, and just like Plotly.py
